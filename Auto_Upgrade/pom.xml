@@ -31,25 +31,16 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-mongodb</artifactId>
-			<version>[1.0.0,2.0.0)</version>
+			<version>[1.0.0,4.0.0)</version>
 		</dependency>
 		
 		
 		
 		
-		<dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>my-library</artifactId>
-            <version>[1.0.0,2.0.0)</version>
-        </dependency>
+		
 
 
 	</dependencies>
-	<repositories>
-  <repository>
-    <id>my-library-repo</id>
-    <url>https://example.com/my-library-repo</url>
-  </repository>
-</repositories>
+	
 
 </project>
