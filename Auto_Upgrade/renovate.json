@@ -5,7 +5,7 @@
   "repositories": [
     {
       "repository": "https://github.com/Anranjini/custom.git",
-      "depName": "com.example:my-library",
+      "depName": "org.springframework.boot:my-library",
       "versioning": "range",
       "rangeStrategy": "bump",
       "range": "[1.0.0,2.0.0)",
