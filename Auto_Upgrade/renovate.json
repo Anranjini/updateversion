@@ -5,7 +5,7 @@
   "repositories": [
     {
       "repository": "https://github.com/Anranjini/hi.git",
-      "depName": "org.springframework.boot:my-library",
+      "depName": "org.springframework.boot:spring-boot-starter-data-mongodb",
       "versioning": "range",
       "rangeStrategy": "bump",
       "range": "[1.0.0,2.0.0)",
