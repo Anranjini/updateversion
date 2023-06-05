@@ -4,7 +4,7 @@
   "platform": "github",
   "repositories": [
     {
-      "repository": "https://github.com/Anranjini/custom.git",
+      "repository": "https://github.com/Anranjini/hi.git",
       "depName": "org.springframework.boot:my-library",
       "versioning": "range",
       "rangeStrategy": "bump",
