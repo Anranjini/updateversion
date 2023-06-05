@@ -4,7 +4,7 @@
   "platform": "github",
   "repositories": [
     {
-      "repository": "https://github.com/Anranjini/hello.git",
+      "repository": "https://github.com/Anranjini/update.git",
       "depName": "org.springframework.boot:spring-boot-starter-data-mongodb",
       "versioning": "range",
       "rangeStrategy": "bump",
