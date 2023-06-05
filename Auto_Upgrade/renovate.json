@@ -8,7 +8,7 @@
       "depName": "org.springframework.boot:spring-boot-starter-data-mongodb",
       "versioning": "range",
       "rangeStrategy": "bump",
-      "range": "[1.0.0,4.0.0)",
+      "range": "[1.0.0,3.0.0)",
       "packageFiles": ["pom.xml"]
     }
   ]
