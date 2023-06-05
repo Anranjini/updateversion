@@ -4,11 +4,11 @@
   "platform": "github",
   "repositories": [
     {
-      "repository": "https://github.com/Anranjini/hi.git",
+      "repository": "https://github.com/Anranjini/hello.git",
       "depName": "org.springframework.boot:spring-boot-starter-data-mongodb",
       "versioning": "range",
       "rangeStrategy": "bump",
-      "range": "[1.0.0,2.0.0)",
+      "range": "[1.0.0,4.0.0)",
       "packageFiles": ["pom.xml"]
     }
   ]
